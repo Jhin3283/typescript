@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/Jhin3283/typescript.git",
   "author": "Jhin3283 <hj3283@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
 }
