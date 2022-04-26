@@ -1,4 +1,4 @@
-const name = "Hyunjin",
+const name = "hyunjin",
   age = 29,
   gender = "male";
 
